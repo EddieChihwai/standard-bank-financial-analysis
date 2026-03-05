@@ -1,0 +1,36 @@
+System files
+
+.DS_Store
+Thumbs.db
+
+Python environments (useful if you later add Python)
+
+venv/
+.env/
+
+Jupyter checkpoints
+
+.ipynb_checkpoints/
+
+Temporary files
+
+*.log
+*.tmp
+*.bak
+
+Excel temporary files
+
+~$*.xlsx
+
+Power BI temporary files
+
+*.pbix.autosave
+
+Large raw files (optional if datasets become large)
+
+*.zip
+*.tar
+
+OS generated files
+
+desktop.ini
